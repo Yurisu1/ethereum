@@ -18,6 +18,7 @@ See LICENCE
 
 ## Contributing
 
+
 Please read CodingStandards.txt thoroughly before making alterations to the code base. Please do *NOT* use an editor that automatically reformats whitespace away from astylerc or the formating guidelines as describled in CodingStandards.txt.
 
 
